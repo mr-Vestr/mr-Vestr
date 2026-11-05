@@ -9,12 +9,12 @@
   "order": [
     "hero",
     "socials",
-    "projects",
     "wave",
-    "stack",
+    "projects",
     "stats",
-    "streak",
     "buttons",
+    "stack",
+    "streak",
     "about"
   ],
   "hidden": [
@@ -25,17 +25,21 @@
   "hero": {
     "greeting": "Hi, I'm",
     "name": "",
-    "subtitle": "I build interfaces and small useful tools.",
+    "subtitle": "I don't know what to write here.",
     "typing": true,
     "avatarShape": "cookie12",
     "chips": [
       {
-        "icon": "location_on",
-        "label": "Earth"
+        "icon": "brand:fedora",
+        "label": "Fedora"
       },
       {
         "icon": "code",
         "label": "Python"
+      },
+      {
+        "icon": "star",
+        "label": "Plugins"
       }
     ]
   },
@@ -134,13 +138,13 @@
       }
     ],
     "variant": "chip",
-    "fill": "tonal",
+    "fill": "outlined",
     "card": true
   },
   "buttons": {
     "items": [
       {
-        "icon": "language",
+        "icon": "brand:telegram",
         "label": "Chanel",
         "url": "https://t.me/I_am_Vestr",
         "style": "filled"

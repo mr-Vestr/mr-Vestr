@@ -4,9 +4,9 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="31.877%" alt=""></picture><a href="t.me/mr_Vestr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="18.122%" alt="telegram"></picture></a><a href="https://t.me/I_am_Vestr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="18.122%" alt="telegram"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="31.877%" alt=""></picture>
 
-<a href="https://github.com/mr-Vestr/plugins"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-plugins-dark.svg"><img src="assets/project-plugins-light.svg" width="49%" alt="plugins"></picture></a>&nbsp;<a href="https://github.com/mr-Vestr/adb-lite-desktop"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-adb-lite-desktop-dark.svg"><img src="assets/project-adb-lite-desktop-light.svg" width="49%" alt="adb-lite-desktop"></picture></a>
-
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
+
+<a href="https://github.com/mr-Vestr/plugins"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-plugins-dark.svg"><img src="assets/project-plugins-light.svg" width="49%" alt="plugins"></picture></a>&nbsp;<a href="https://github.com/mr-Vestr/adb-lite-desktop"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-adb-lite-desktop-dark.svg"><img src="assets/project-adb-lite-desktop-light.svg" width="49%" alt="adb-lite-desktop"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
