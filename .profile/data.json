@@ -1,6 +1,6 @@
 {
- "key": "1e91dff7",
- "stars": 7,
+ "key": "ea33c30e",
+ "stars": 8,
  "contributions": 672,
  "repos": 5,
  "followers": 1,
@@ -133,7 +133,7 @@
    "url": "https://github.com/mr-Vestr/plugins",
    "text": "Мои плагины для exteraGram / AyuGram / exteraless | My plugins for exteraGram / AyuGram / exteraless",
    "fork": false,
-   "stars": 7,
+   "stars": 8,
    "language": "Python",
    "topics": [
     "ayugram",
@@ -175,7 +175,7 @@
    "url": "https://github.com/amurcanov/tg-ws-proxy-android",
    "text": "Android-форк популярного приложения Flowseal - tg-ws-proxy - локальный прокси-сервер MTProto с проксированием CF или без для частичного обхода проблем загрузки Telegram",
    "fork": true,
-   "stars": 2588,
+   "stars": 2591,
    "language": "Kotlin",
    "topics": [
     "bol-van",
@@ -197,7 +197,7 @@
    "url": "https://github.com/mr-Vestr/plugins",
    "text": "Мои плагины для exteraGram / AyuGram / exteraless | My plugins for exteraGram / AyuGram / exteraless",
    "fork": false,
-   "stars": 7,
+   "stars": 8,
    "language": "Python",
    "topics": [
     "ayugram",
