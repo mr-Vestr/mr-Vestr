@@ -1,6 +1,6 @@
 {
- "key": "a04a9630",
- "stars": 10,
+ "key": "4cfd5057",
+ "stars": 9,
  "contributions": 744,
  "repos": 5,
  "followers": 1,
@@ -93,9 +93,13 @@
    {
     "c": 3,
     "day": 22,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 23,
     "today": true
    },
-   null,
    null,
    null,
    null,
@@ -113,7 +117,7 @@
    "url": "https://github.com/mr-Vestr/plugins",
    "text": "Мои плагины для exteraGram / AyuGram / exteraless | My plugins for exteraGram / AyuGram / exteraless",
    "fork": false,
-   "stars": 10,
+   "stars": 9,
    "language": "Python",
    "topics": [
     "ayugram",
@@ -177,7 +181,7 @@
    "url": "https://github.com/mr-Vestr/plugins",
    "text": "Мои плагины для exteraGram / AyuGram / exteraless | My plugins for exteraGram / AyuGram / exteraless",
    "fork": false,
-   "stars": 10,
+   "stars": 9,
    "language": "Python",
    "topics": [
     "ayugram",
