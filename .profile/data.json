@@ -1,5 +1,5 @@
 {
- "key": "c144fd64",
+ "key": "c6a1eeda",
  "stars": 9,
  "contributions": 746,
  "repos": 5,
@@ -118,9 +118,13 @@
    {
     "c": 0,
     "day": 27,
-    "today": true
+    "today": false
    },
-   null
+   {
+    "c": 0,
+    "day": 28,
+    "today": true
+   }
   ]
  ],
  "streak": {
@@ -175,7 +179,7 @@
    "url": "https://github.com/amurcanov/tg-ws-proxy-android",
    "text": "Android-форк популярного приложения Flowseal - tg-ws-proxy - локальный прокси-сервер MTProto с проксированием CF или без для частичного обхода проблем загрузки Telegram",
    "fork": true,
-   "stars": 2658,
+   "stars": 2660,
    "language": "Kotlin",
    "topics": [
     "bol-van",
